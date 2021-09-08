@@ -18,6 +18,7 @@ List of features ready and TODOs for future development
 * Employee and Customer can Register by entering valid details and can also Login once Registerd
 * Employee and Customer can perform all required functionality for the project
 * Logging and Exception handling is also working 
+
 To-do list:
 * JUnit Testing for each function
 * currently only one benifits coordinator is supported
